@@ -1,4 +1,4 @@
-import Image from "next/image";
+/* eslint-disable @typescript-eslint/no-unused-vars */
 
 export default function Home() {
   return (
